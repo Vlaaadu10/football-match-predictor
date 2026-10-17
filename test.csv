@@ -1,0 +1,201 @@
+home_team,away_team,rank_difference,home_form_last_5,away_form_last_5,neutral_location,importance_level,result
+Belgium,Japan,11,0.97,0.66,1,qualifier,2
+Argentina,Switzerland,16,0.93,0.64,1,qualifier,0
+Nigeria,Argentina,22,0.57,0.58,0,friendly,0
+Belgium,Romania,38,0.26,0.92,0,friendly,0
+England,Turkey,25,0.31,0.99,0,qualifier,0
+Senegal,France,19,0.9,0.57,1,continental_cup,2
+Morocco,Turkey,14,0.06,0.83,0,qualifier,2
+England,Argentina,6,0.43,0.26,1,friendly,1
+Uruguay,USA,3,0.44,0.39,0,friendly,1
+Poland,USA,10,0.18,0.25,0,friendly,0
+Poland,Chile,23,0.85,0.98,0,friendly,1
+Portugal,Mexico,11,0.75,0.9,0,world_cup,0
+Italy,France,9,0.94,0.87,0,continental_cup,1
+Uruguay,Germany,2,0.43,0.69,0,continental_cup,2
+Italy,Ivory Coast,26,0.81,0.78,0,continental_cup,2
+Canada,Senegal,4,0.06,0.91,0,qualifier,0
+Netherlands,Ivory Coast,36,0.11,0.98,0,continental_cup,0
+Netherlands,Brazil,1,0.23,0.56,0,friendly,2
+Belgium,Australia,19,,,0,,2
+Morocco,Switzerland,10,0.5,0.93,1,friendly,2
+Argentina,Germany,6,0.9,0.58,0,continental_cup,2
+Denmark,Australia,9,0.15,0.31,1,qualifier,1
+Germany,Romania,36,0.6,0.39,1,world_cup,2
+Poland,Belgium,15,0.95,0.19,1,friendly,0
+Turkey,Canada,4,0.01,0.18,0,friendly,1
+Senegal,Italy,11,0.96,0.22,1,world_cup,2
+Netherlands,Belgium,4,0.37,0.4,0,qualifier,2
+South Korea,Belgium,16,0.65,0.12,1,world_cup,0
+Brazil,Switzerland,12,0.3,0.76,0,qualifier,0
+Canada,Croatia,16,0.66,0.94,0,friendly,0
+Romania,Spain,43,0.02,0.68,0,friendly,0
+France,Brazil,7,0.15,0.84,0,friendly,1
+Australia,Romania,21,0.88,0.45,0,qualifier,0
+Serbia,Brazil,26,0.98,0.37,0,qualifier,1
+Senegal,Belgium,13,0.4,0.98,0,qualifier,0
+South Korea,Colombia,8,0.1,0.84,1,friendly,2
+USA,Portugal,8,0.42,0.17,0,continental_cup,2
+Canada,Australia,3,0.72,0.05,0,friendly,2
+USA,Denmark,5,0.17,0.49,0,world_cup,2
+Nigeria,Poland,4,0.08,0.8,1,friendly,2
+Switzerland,Spain,11,0.41,0.83,0,qualifier,2
+Brazil,Canada,21,0.33,0.69,1,qualifier,0
+Mexico,Germany,4,0.37,0.48,0,qualifier,0
+Turkey,Japan,6,0.56,0.49,0,qualifier,2
+France,Nigeria,24,0.58,0.94,0,qualifier,0
+Netherlands,Colombia,10,0.69,0.9,0,friendly,1
+Morocco,Belgium,5,0.23,0.07,0,continental_cup,0
+Nigeria,Argentina,21,0.58,0.35,0,friendly,2
+South Korea,Switzerland,1,0.86,0.38,0,friendly,2
+Ivory Coast,Australia,19,0.69,0.42,0,qualifier,0
+Belgium,Senegal,9,0.66,0.88,0,qualifier,2
+Spain,Australia,19,0.08,0.68,0,friendly,0
+Morocco,Poland,14,0.41,0.41,0,friendly,0
+Australia,Argentina,23,0.82,0.15,0,continental_cup,1
+Japan,Netherlands,10,0.19,0.72,0,qualifier,0
+Ivory Coast,Portugal,31,0.69,0.68,1,qualifier,0
+Chile,Canada,21,0.11,0.49,0,continental_cup,2
+Serbia,Canada,10,0.9,0.27,1,friendly,0
+Morocco,Nigeria,19,0.77,0.07,1,friendly,0
+Brazil,Ivory Coast,38,0.81,0.51,1,friendly,2
+Australia,USA,9,0.62,0.5,0,world_cup,0
+South Korea,Nigeria,7,0.96,0.65,0,qualifier,1
+Denmark,Canada,9,0.52,0.75,0,friendly,0
+Romania,Chile,1,0.05,0.33,0,friendly,2
+Netherlands,France,5,0.99,1.0,1,friendly,2
+Switzerland,Spain,14,0.19,0.79,1,world_cup,2
+France,Canada,26,0.65,0.64,0,friendly,2
+Poland,Australia,1,0.45,0.9,0,friendly,0
+Chile,Nigeria,23,0.58,0.03,1,friendly,0
+Japan,Argentina,12,0.48,0.37,0,qualifier,0
+Netherlands,Brazil,3,0.79,0.45,0,world_cup,0
+France,Canada,28,0.92,0.4,0,continental_cup,2
+Romania,Uruguay,33,0.5,0.3,1,friendly,2
+Netherlands,England,5,0.54,0.91,1,qualifier,0
+Canada,Serbia,4,0.84,0.55,0,friendly,1
+Spain,Belgium,7,0.26,0.07,0,friendly,0
+Nigeria,Australia,2,0.92,0.99,0,continental_cup,2
+Serbia,Turkey,8,0.63,0.95,0,continental_cup,2
+South Korea,Croatia,13,0.54,0.46,0,qualifier,0
+South Korea,Portugal,17,0.57,0.81,1,friendly,0
+Belgium,Australia,23,0.49,0.54,0,friendly,0
+Australia,Romania,25,0.69,0.45,1,qualifier,0
+Ivory Coast,Serbia,12,0.8,0.47,1,friendly,2
+Japan,Serbia,16,0.59,0.31,1,friendly,0
+Romania,England,40,0.61,0.85,0,world_cup,2
+England,Turkey,24,0.98,0.51,0,continental_cup,0
+Ivory Coast,USA,24,1.0,0.02,0,qualifier,2
+USA,Australia,6,0.21,0.28,0,continental_cup,0
+Japan,Argentina,14,0.02,0.1,0,qualifier,1
+Belgium,Mexico,8,0.46,0.03,0,qualifier,2
+Argentina,Mexico,12,0.45,0.78,1,friendly,1
+Colombia,Netherlands,8,0.28,0.14,0,continental_cup,0
+Chile,Netherlands,46,,,1,,0
+Croatia,Germany,1,0.11,0.26,1,qualifier,2
+Turkey,Ivory Coast,12,0.31,0.23,0,qualifier,0
+Uruguay,Australia,11,0.76,0.64,1,continental_cup,0
+Morocco,Denmark,8,0.49,0.26,0,friendly,1
+Nigeria,Serbia,1,0.67,0.48,0,qualifier,0
+Italy,Turkey,16,0.94,0.49,0,world_cup,2
+Serbia,Japan,11,0.28,0.27,0,friendly,1
+Denmark,Nigeria,8,0.56,0.29,0,qualifier,0
+France,Switzerland,18,0.56,0.17,0,qualifier,1
+Uruguay,Mexico,2,0.03,0.55,0,friendly,2
+England,Croatia,9,0.14,0.36,0,qualifier,0
+Netherlands,Argentina,6,0.12,0.99,0,friendly,0
+Romania,Senegal,28,0.13,0.45,1,world_cup,0
+Brazil,France,4,0.0,0.5,0,qualifier,0
+Germany,Portugal,1,0.75,0.62,0,friendly,2
+Senegal,Switzerland,5,0.51,0.03,0,friendly,2
+Nigeria,Poland,0,0.86,0.13,1,qualifier,2
+Romania,Ivory Coast,7,0.06,0.19,1,qualifier,1
+France,Romania,44,0.95,0.9,1,continental_cup,0
+Portugal,Japan,13,0.31,0.85,0,friendly,0
+Ivory Coast,Chile,8,0.16,0.87,0,continental_cup,2
+Nigeria,Japan,10,0.21,0.03,0,qualifier,2
+Belgium,Germany,5,0.54,0.01,0,friendly,1
+Ivory Coast,Serbia,9,0.19,0.26,1,qualifier,1
+Netherlands,Nigeria,15,0.72,0.58,0,friendly,0
+Serbia,England,26,0.97,0.93,1,qualifier,2
+Poland,Turkey,3,0.81,0.66,1,qualifier,1
+France,Netherlands,6,0.13,0.62,0,world_cup,1
+Serbia,Netherlands,26,0.07,0.68,0,friendly,2
+Switzerland,Senegal,5,0.35,0.89,0,world_cup,0
+Serbia,Ivory Coast,12,0.93,0.69,0,friendly,0
+Uruguay,Japan,4,0.21,0.57,0,continental_cup,2
+Spain,Romania,44,0.16,0.21,0,friendly,0
+Germany,Spain,6,0.38,0.86,0,qualifier,2
+Ivory Coast,Netherlands,36,0.35,0.37,1,qualifier,2
+Canada,Australia,2,0.14,0.56,0,friendly,0
+Chile,Italy,35,0.09,0.34,0,friendly,0
+France,Morocco,8,0.11,0.7,0,world_cup,0
+Poland,Nigeria,2,0.16,0.3,0,friendly,2
+Italy,Japan,7,0.63,0.19,0,qualifier,1
+Germany,Brazil,3,0.78,0.67,0,friendly,2
+Denmark,Senegal,4,0.28,0.13,0,world_cup,2
+South Korea,Colombia,9,0.52,0.45,0,friendly,1
+Brazil,Australia,23,0.23,0.69,1,qualifier,2
+Uruguay,Spain,12,0.15,0.07,0,qualifier,1
+Nigeria,Mexico,7,0.88,0.62,1,qualifier,0
+Brazil,Romania,42,0.93,0.42,0,friendly,2
+Ivory Coast,Germany,34,0.1,0.69,0,friendly,2
+Mexico,Italy,7,0.47,0.16,0,friendly,1
+Colombia,Poland,8,0.97,0.96,0,continental_cup,0
+Netherlands,Serbia,30,,,1,,0
+Argentina,Romania,44,0.28,0.72,1,continental_cup,2
+Belgium,Netherlands,3,0.26,0.3,0,continental_cup,2
+Spain,France,4,0.25,0.37,0,qualifier,2
+South Korea,Poland,4,0.85,0.41,0,world_cup,2
+Italy,Netherlands,6,0.91,0.46,0,continental_cup,1
+South Korea,Brazil,17,0.43,0.12,0,qualifier,2
+Uruguay,Mexico,2,0.62,0.23,1,qualifier,1
+Australia,Poland,2,0.88,0.15,0,qualifier,2
+France,Denmark,17,0.42,0.32,1,qualifier,0
+Netherlands,Croatia,0,0.41,0.7,0,continental_cup,0
+Romania,Croatia,41,0.73,0.21,1,friendly,2
+Nigeria,Spain,27,0.02,0.87,0,friendly,0
+Portugal,Brazil,4,0.6,0.18,0,friendly,2
+Serbia,Nigeria,4,0.78,0.63,0,world_cup,2
+Mexico,Uruguay,1,0.71,0.32,0,friendly,2
+Ivory Coast,USA,30,0.4,0.58,0,continental_cup,0
+Portugal,Morocco,7,0.39,0.4,1,qualifier,0
+Nigeria,France,30,0.72,0.89,0,continental_cup,2
+Italy,Chile,36,0.42,0.24,0,world_cup,2
+Portugal,Romania,36,0.62,0.64,0,world_cup,0
+Colombia,Turkey,8,0.34,0.82,0,friendly,0
+France,Morocco,11,0.29,0.52,0,friendly,2
+Netherlands,USA,11,0.72,0.83,0,continental_cup,1
+Canada,Australia,3,0.55,0.26,0,world_cup,2
+Italy,Switzerland,7,0.29,0.77,0,friendly,1
+Serbia,Mexico,16,0.3,0.37,0,friendly,2
+France,Nigeria,24,0.16,0.84,1,friendly,2
+Ivory Coast,Switzerland,26,0.45,0.87,0,continental_cup,1
+Netherlands,Uruguay,4,0.08,0.81,1,continental_cup,1
+England,Australia,20,0.86,0.93,0,friendly,1
+Mexico,Brazil,8,0.96,0.77,1,continental_cup,0
+Serbia,Colombia,15,0.16,0.19,0,qualifier,1
+Mexico,Senegal,4,0.05,0.65,0,friendly,2
+Japan,Turkey,6,0.26,0.25,1,friendly,2
+Brazil,Turkey,17,0.05,0.11,0,continental_cup,2
+Netherlands,Australia,16,0.81,0.9,0,friendly,0
+Croatia,Netherlands,4,0.69,0.01,1,qualifier,0
+Uruguay,Croatia,6,0.73,0.23,0,qualifier,2
+Nigeria,Croatia,20,0.84,0.43,0,qualifier,2
+Ivory Coast,Mexico,24,0.59,1.0,1,friendly,1
+Belgium,Uruguay,8,0.58,0.26,1,friendly,2
+South Korea,Australia,0,0.82,0.43,0,friendly,0
+Nigeria,Spain,29,0.44,0.34,0,world_cup,2
+Portugal,Mexico,12,0.37,0.34,0,qualifier,2
+Switzerland,Poland,1,0.78,0.76,0,qualifier,2
+Denmark,Germany,9,0.15,0.23,0,qualifier,1
+Nigeria,Morocco,20,0.89,0.26,0,world_cup,2
+Australia,Chile,26,,,0,,2
+Switzerland,Croatia,9,0.44,0.61,0,continental_cup,2
+Netherlands,Senegal,11,0.97,0.72,0,friendly,0
+Portugal,Belgium,6,0.37,0.26,0,continental_cup,1
+Argentina,Ivory Coast,39,0.62,0.32,0,friendly,2
+Uruguay,Chile,36,0.97,0.3,0,friendly,2
+Canada,Japan,11,0.32,0.62,0,continental_cup,2
+Turkey,Uruguay,7,0.44,0.75,1,world_cup,0
+Brazil,Italy,8,0.11,0.78,0,qualifier,0
